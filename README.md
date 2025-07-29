@@ -2,7 +2,7 @@
 
 ## Description
 
-**Bible Chat Ai** is a faith-based AI-powered assistant designed to help users explore, interpret, and understand the Bible through natural language conversation. Whether you're searching for scripture, seeking contextual explanations, or exploring moral teachings, Bible Chat Ai provides accurate, respectful, and insightful responses. Built with accessibility and spiritual enrichment in mind, it aims to make Bible study more interactive and engaging for people of all backgrounds.
+<a href="https://www.reddit.com/r/BibleChatAiApp/">Bible Chat Ai</a> is a faith-based AI-powered assistant designed to help users explore, interpret, and understand the Bible through natural language conversation. Whether you're searching for scripture, seeking contextual explanations, or exploring moral teachings, Bible Chat Ai provides accurate, respectful, and insightful responses. Built with accessibility and spiritual enrichment in mind, it aims to make Bible study more interactive and engaging for people of all backgrounds.
 
 This application uses modern web technologies to create a seamless user experience and enables users to ask spiritual questions, receive verse references, or chat about theological topics — all powered by a helpful conversational AI interface.
 
